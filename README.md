@@ -11,3 +11,4 @@ Brutal shift delay line (implemented as Python class with private buffer)
 ## How to run
 ```bash
 python main.py
+```
